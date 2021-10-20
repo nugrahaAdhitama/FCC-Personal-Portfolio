@@ -1,0 +1,25 @@
+body {    
+    background-color: #FFC107;
+}
+
+
+section {
+    padding-top: 3.5rem;
+    background-color: #FFC107;
+}
+
+#welcome-section {
+    height: 100vh;
+}
+
+.card a img {
+    width: 100%;
+}
+
+.profile-link {
+    transition: transform 0.3s ease-out;
+}
+
+.profile-link:hover {
+    transform: translateY(8px);
+}
